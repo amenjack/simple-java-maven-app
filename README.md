@@ -62,6 +62,13 @@ Leave everything as Default
 Chose Appropriate Default Triggers
 ```
 
+====================================
+THIS IS DONE BY ME
+Leave everything as Default
+
+Chose Appropriate Default Triggers
+====================================
+
 ## Setup Jenkins Email Notification Plugin
 
 Navigate to Manage Jenkins--> System--> Email Notification and add following details
