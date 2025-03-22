@@ -152,5 +152,3 @@ Testing webhook if it works by me amenjack
 please check
 amen jack
 okouim
-amen jack
-okouim on devops
