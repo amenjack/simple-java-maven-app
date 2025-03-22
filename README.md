@@ -148,9 +148,9 @@ okouim
 
 That's it! You should now have Jenkins configured to send Slack notifications for your builds.
 
-testing webhook if it works by me amenjack 
+Testing webhook if it works by me amenjack 
 please check
 amen jack
 okouim
 amen jack
-okouim
+okouim on devops
